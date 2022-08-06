@@ -12,4 +12,4 @@ BeautifulSoup is the main library to be imported to do web scrapping
 7. Store the data in the required format.
 
 
-*Note: * I have done it for single page, for extracting data from the multiple pages put the code in the for loop.
+*#Note:* I have done it for single page, for extracting data from the multiple pages put the code in the for loop.
