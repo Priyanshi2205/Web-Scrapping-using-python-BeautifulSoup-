@@ -1,6 +1,8 @@
 # Web-Scrapping-using-python-BeautifulSoup-
+Data scraping is the first step in any data analytics project. It involves pulling data (usually from the web) and compiling it into a usable format. While there’s no shortage of great data repositories available online, scraping and cleaning data yourself is a great way to show off your skills.
+
 In this project I have scrapped the movies data from the Imdb website of first 1000 best movies using python.
-BeautifulSoup is the main library to be imported to do web scrapping
+BeautifulSoup is the main library that is used to extract the data from a website.
 
 **URL of the Website :** https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating
 
