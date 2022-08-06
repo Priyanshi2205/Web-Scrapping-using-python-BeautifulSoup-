@@ -3,6 +3,7 @@ In this project I have scrapped the movies data from the Imdb website of first 1
 BeautifulSoup is the main library to be imported to do web scrapping
 
 **URL of the Website :** https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating
+
 **Steps to be carried out**
 1. Import all the neccesary library 
 2. Find the URL that you want to scrape.
